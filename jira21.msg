@@ -1,1 +1,1 @@
-another new file 
+"echo 1 another new file" 
